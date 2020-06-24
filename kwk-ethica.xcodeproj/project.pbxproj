@@ -14,6 +14,8 @@
 		AD45EC6A24A285FD00DED924 /* kwk_ethica.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AD45EC6824A285FD00DED924 /* kwk_ethica.xcdatamodeld */; };
 		AD45EC6C24A2860100DED924 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD45EC6B24A2860100DED924 /* Assets.xcassets */; };
 		AD45EC6F24A2860100DED924 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD45EC6D24A2860100DED924 /* LaunchScreen.storyboard */; };
+		AD615DF524A3A029002BB06D /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD615DF424A3A029002BB06D /* ViewController2.swift */; };
+		AD615DF724A3A047002BB06D /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD615DF624A3A047002BB06D /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		AD45EC6B24A2860100DED924 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD45EC6E24A2860100DED924 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AD45EC7024A2860100DED924 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD615DF424A3A029002BB06D /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		AD615DF624A3A047002BB06D /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				AD45EC5F24A285FD00DED924 /* AppDelegate.swift */,
 				AD45EC6124A285FD00DED924 /* SceneDelegate.swift */,
 				AD45EC6324A285FD00DED924 /* ViewController.swift */,
+				AD615DF424A3A029002BB06D /* ViewController2.swift */,
+				AD615DF624A3A047002BB06D /* ViewController3.swift */,
 				AD45EC6524A285FD00DED924 /* Main.storyboard */,
 				AD45EC6B24A2860100DED924 /* Assets.xcassets */,
 				AD45EC6D24A2860100DED924 /* LaunchScreen.storyboard */,
@@ -141,7 +147,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD615DF524A3A029002BB06D /* ViewController2.swift in Sources */,
 				AD45EC6424A285FD00DED924 /* ViewController.swift in Sources */,
+				AD615DF724A3A047002BB06D /* ViewController3.swift in Sources */,
 				AD45EC6A24A285FD00DED924 /* kwk_ethica.xcdatamodeld in Sources */,
 				AD45EC6024A285FD00DED924 /* AppDelegate.swift in Sources */,
 				AD45EC6224A285FD00DED924 /* SceneDelegate.swift in Sources */,
