@@ -15,8 +15,10 @@ class ViewController2: UIViewController {
 
         // Do any additional setup after loading the view.
     }
+    @IBOutlet weak var FavSwitch: UISwitch!
     
-
+    @IBOutlet weak var FavSwitch2: UISwitch!
+    
     /*
     // MARK: - Navigation
 
